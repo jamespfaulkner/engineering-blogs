@@ -556,6 +556,7 @@
 
 #### H individuals
 * Hayden James https://haydenjames.io/
+* Heinz Kabutz https://www.javaspecialists.eu/
 * Henrik Lau Eriksson https://conductofcode.io/
 * Henrik Warne https://henrikwarne.com/
 * High Scalability http://highscalability.com/
